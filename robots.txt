@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://jonevn01-beep.github.io/vesinh-moi-truong-hanoi/sitemap.xml
+
